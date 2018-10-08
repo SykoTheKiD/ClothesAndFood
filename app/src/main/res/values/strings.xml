@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClothesMatch</string>
+    <string name="detect_object">Detect</string>
+    <string name="toggle_camera">Toggle</string>
+</resources>
