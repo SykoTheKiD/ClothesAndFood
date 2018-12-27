@@ -9,5 +9,5 @@ Uses a pretrained MobileNet model which is loaded into TensorFlow Mobile to iden
 
 ### How do I get set up? ###
 
--- Build the project to get the `.apk` file
--- Install the `.apk` on an Android device
+- Build the project to get the `.apk` file
+- Install the `.apk` on an Android device
