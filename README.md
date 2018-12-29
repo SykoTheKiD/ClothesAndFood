@@ -11,3 +11,5 @@ Uses a pretrained MobileNet model which is loaded into TensorFlow Mobile to iden
 
 - Build the project to get the `.apk` file
 - Install the `.apk` on an Android device
+
+### Details: https://sykothekid.github.io/ClothesAndFood/
